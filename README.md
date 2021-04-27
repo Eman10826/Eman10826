@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Eman10826
+- 👀 I’m interested in Games and codeing
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
